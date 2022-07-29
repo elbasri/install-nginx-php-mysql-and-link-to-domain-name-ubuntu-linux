@@ -39,7 +39,9 @@ ss -pl | grep php
 
 cd /etc/nginx/sites-available/
 
+
 server {
+
     server_name wordpress.nacer.ma;
 
     root   /var/www/html/nacer;
