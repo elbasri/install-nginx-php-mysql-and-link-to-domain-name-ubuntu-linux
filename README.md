@@ -71,7 +71,7 @@ sudo mysql
 
 create database wordpressdb;
 
-create user wordpress@'localhost' identified by 'wp123website@@@;
+create user wordpress@'localhost' identified by 'wp123website@@@';
 
 grant all privileges on wordpressdb.* to wordpress@'localhost';
 
