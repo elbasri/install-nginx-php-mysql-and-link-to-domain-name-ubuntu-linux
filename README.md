@@ -79,4 +79,4 @@ flush privileges;
 
 
 Video/فيديو:
-https://www.youtube.com/watch?v=L4HkF7qdxlc&t=860s
+https://www.youtube.com/watch?v=L4HkF7qdxlc
