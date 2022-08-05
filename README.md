@@ -77,3 +77,6 @@ grant all privileges on wordpressdb.* to wordpress@'localhost';
 
 flush privileges;
 
+
+Video/فيديو:
+https://www.youtube.com/watch?v=L4HkF7qdxlc&t=860s
